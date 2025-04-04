@@ -1,0 +1,12 @@
+---
+title: "Analysis"
+author: "Patricia Annan"
+date: "2025-04-03"
+categories: [ code, analysis]
+image: "image.jpg"
+---
+
+## This was a project using DHS data. You can find the project [here](){target = "\_blank"}
+
+```         
+```

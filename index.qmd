@@ -1,0 +1,21 @@
+
+---
+title: "Patricia Annan"
+image: headshot.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/patriciaannan
+    - icon: github
+      text: Github
+      href: https://github.com/triciaannan
+      
+---
+
+I’m a Master’s graduate in Economics who loves working with large datasets to uncover meaningful insights, apply statistical methods, and create compelling data visualizations. I'm fluent in SQL, Python, R, and Tableau, and I enjoy turning complex data into clear, actionable stories.
+
+And oh — I speak some French too! 
+
+---
