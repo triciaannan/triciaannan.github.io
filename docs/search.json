@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "Portfolio.html",
+    "href": "Portfolio.html",
+    "title": "My Portfolio",
+    "section": "",
+    "text": "Analysis\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 3, 2025\n\n\nPatricia Annan\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 31, 2025\n\n\nPatricia Annan\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Patricia Annan",
+    "section": "",
+    "text": "I’m a Master’s graduate in Economics who loves working with large datasets to uncover meaningful insights, apply statistical methods, and create compelling data visualizations. I’m fluent in SQL, Python, R, and Tableau, and I enjoy turning complex data into clear, actionable stories.\nAnd oh — I speak some French too!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index_old.html",
+    "href": "index_old.html",
+    "title": "my_website",
+    "section": "",
+    "text": "Analysis\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 3, 2025\n\n\nPatricia Annan\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 31, 2025\n\n\nPatricia Annan\n\n\n\n\n\n\nNo matching items"
+  }
+]
